@@ -24,4 +24,10 @@ I drew inspiration from this project where they made a fax C compiler (https://g
 - Grandstream UCM6202
 
 # List of possible uses?
-- ???
+- Medical?
+    - Automatic classification/routing of faxed documnets based on content?
+    - Possible detection of fake prescriptions?
+- Government?
+    - https://www.dw.com/en/over-80-of-german-companies-still-use-fax-machines-survey/a-65514581
+    - https://faxination.com/fax-remains-a-dominant-form-of-communication-in-these-countries/
+- AI enabled fax?
