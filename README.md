@@ -1,5 +1,5 @@
 # Introduction
-So. I just completed probably the most pointless project. I honeslty have zero practical use for this. If you can find a use for this, please let me know.
+So. I just completed probably the most amazingly pointless project. I honestly have zero practical use for this. If you can find a use for this, please let me know. Reach out to devagent42 (at) protonmail (dot) com and we can have a chat.
 
 I just wrote a connector between a fax and ChatGPT, which I call FaxGPT. The fax I used is from 1996. 
 
